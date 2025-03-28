@@ -1,0 +1,6 @@
+data/cache/
+data/log/
+.env
+*.bak
+*.swp
+*.tmp
